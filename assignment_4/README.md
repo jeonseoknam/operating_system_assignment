@@ -5,3 +5,22 @@
 - COW를 사용하면 새로운 데이터 작성 시 기존 블록을 보존하고 새 블록에 기록함으로써, 스냅샷 생성 시 전체 데이터를 복사하지 않고도 공간 효율적인 스냅샷을 구현할 수 있다.
 - Oracle의 ZFS 등의 실제 파일시스템도 이러한 COW를 통해 신속하고 공간 효율적인 스냅샷을 제공한다.
 
+
+# Quick Start Guide
+1. xv6-public을 클론
+```
+git clone https://github.com/mit-pdos/xv6-public
+cd xv6-public
+```
+
+2. xv6-public에 해당 리포지토리의 assignment_4 소스코드를 덮어쓰기
+```
+git clone https://github.com/jeonseoknam/operating_system_assignment.git
+
+
+```
+
+3. 테스트 해보기
+```
+
+```
