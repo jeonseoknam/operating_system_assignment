@@ -1,4 +1,6 @@
 # operating_system_assignment
+Test Environment: Ubuntu 22.04 LTS
+
 
 # Quick Start Guide
 **1. 해당 리포지토리를 클론**
