@@ -20,6 +20,7 @@ chmod +x build_xv6_assignment_4.sh
 
 <br>**3. 빌드한 xv6를 실행**
 - 예시: assignment_4 버전의 xv6를 실행
+- QEMU(Quick Emulator) 사용
 ```
 cd xv6-public_assignment_4
 make qemu-nox
