@@ -15,7 +15,7 @@ chmod +x build_xv6_assignment_4.sh
 ./build_xv6_assignment_4.sh
 ```
 
-<br>**3. 빌드한 xv-6를 실행**
+<br>**3. 빌드한 xv6를 실행**
 - 예시: assignment_4 버전의 xv6를 실행
 ```
 cd xv6-public_assignment_4
