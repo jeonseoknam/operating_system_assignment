@@ -30,12 +30,12 @@
   	- hello_number(int n): 인자 n을 받아, 커널 콘솔에 "Hello, xv6! Your number is n*2"라는 메시지를 출력
 
 2. get_proinfo 시스템 콜 활용 프로그램
-```
-psinfo [PID]
-```
-  - [PID]를 입력 받아 해당 process의 정보를 출력
-  - 인자가 없을 경우 자신의 pid에 해당하는 process의 정보를 출력
-  - PID, PPID, STATE, SIZE, NAME 출력(SIZE=메모리 크기, NAME=프로세스 이름)
+	```
+	psinfo [PID]
+	```
+  	- [PID]를 입력 받아 해당 process의 정보를 출력
+  	- 인자가 없을 경우 자신의 pid에 해당하는 process의 정보를 출력
+  	- PID, PPID, STATE, SIZE, NAME 출력(SIZE=메모리 크기, NAME=프로세스 이름)
 
 
 
