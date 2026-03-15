@@ -1,6 +1,6 @@
 # operating_system_assignment
-**- Test Environment: Ubuntu 22.04 LTS, QEMU**
-<br>**- Open source OS: xv6(MIT에서 교육 목적으로 개발한 Unix 계열의 오픈 소스 운영체제)**
+- Test Environment: Ubuntu 22.04 LTS, QEMU
+- Open source OS: xv6(MIT에서 교육 목적으로 개발한 Unix 계열의 오픈 소스 운영체제)
 
 
 # Quick Start Guide
