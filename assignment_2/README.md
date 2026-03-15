@@ -18,5 +18,5 @@
 	- 비선점형(non-preemptive): 한 프로세스가 cpu를 차지하면 작업이 끝날 때까지 뺏기지 않음
 	- 선점형(preemptive): 우선순위가 높은 프로세스가 현재 cpu 사용 중인 프로세스를 멈추고 자원을 뺏을 수 있음(예: Round Robin)
 
-**Demo**
-- [assignment_4 description](https://flat-spot-421.notion.site/assignment_2-324158dedd6080ed91faf01b1cad4158?source=copy_link)
+**description**
+- [assignment_2 description](https://flat-spot-421.notion.site/assignment_2-324158dedd6080ed91faf01b1cad4158?source=copy_link)

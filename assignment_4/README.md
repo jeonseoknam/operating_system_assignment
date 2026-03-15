@@ -5,5 +5,5 @@
 - COW를 사용하면 새로운 데이터 작성 시 기존 블록을 보존하고 새 블록에 기록함으로써, 스냅샷 생성 시 전체 데이터를 복사하지 않고도 공간 효율적인 스냅샷을 구현할 수 있다.
 - Oracle의 ZFS 등의 실제 파일시스템도 이러한 COW를 통해 신속하고 공간 효율적인 스냅샷을 제공한다.
 
-**Demo**
+**description**
 - [assignment_4 description](https://flat-spot-421.notion.site/assignment_4_demo-305158dedd6080cc84f6dc5160b5bce5?source=copy_link)
