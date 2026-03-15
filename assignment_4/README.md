@@ -6,4 +6,4 @@
 - Oracle의 ZFS 등의 실제 파일시스템도 이러한 COW를 통해 신속하고 공간 효율적인 스냅샷을 제공한다.
 
 **Demo**
-[assignment_4 Demo](https://flat-spot-421.notion.site/assignment_4_demo-305158dedd6080cc84f6dc5160b5bce5?source=copy_link)
+- [assignment_4 Demo](https://flat-spot-421.notion.site/assignment_4_demo-305158dedd6080cc84f6dc5160b5bce5?source=copy_link)
