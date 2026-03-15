@@ -8,6 +8,17 @@ XV6_DIR="xv6-public_assignment_3"
 ASSIGN_DIR="operating_system_assignment"
 ASSIGN_SUBDIR="sourcecode"
 
+# 0) required packages install
+echo "[INFO] Installing required packages..."
+sudo apt update
+sudo apt install -y \
+	build-essential \
+	gcc \
+	gdb \
+	make \
+	git \
+	qemu-system-x86
+
 # 1) clone xv6-public (없으면)
 if [ ! -d "$XV6_DIR/.git" ]; then
 	git clone "$XV6_REPO_URL" "$XV6_DIR"
