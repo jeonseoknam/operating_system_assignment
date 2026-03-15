@@ -23,11 +23,12 @@
 - xv6 내에서 아래 명령어 실행
 
 1. hello_number 시스템 콜 활용 프로그램
-```
-helloxv6
-```
-  - helloxv6.c에 작성된 만큼의 hello_number 시스템 콜을 호출하여 결과를 출력하는 프로그램
-  - hello_number(int n): 인자 n을 받아, 커널 콘솔에 "Hello, xv6! Your number is n*2"라는 메시지를 출력
+
+	```
+	helloxv6
+	```
+  		- helloxv6.c에 작성된 만큼의 hello_number 시스템 콜을 호출하여 결과를 출력하는 프로그램
+  		- hello_number(int n): 인자 n을 받아, 커널 콘솔에 "Hello, xv6! Your number is n*2"라는 메시지를 출력
 
 2. get_proinfo 시스템 콜 활용 프로그램
 ```
